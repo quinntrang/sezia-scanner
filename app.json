@@ -1,0 +1,12 @@
+{
+  "name": "skincare-scanner",
+  "displayName": "skincare-scanner",
+  "expo": {
+    "name": "skincare-scanner",
+    "slug": "skincare-scanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
