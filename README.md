@@ -15,3 +15,7 @@
 #### Helpful Docs
 
 - React Native: https://reactnative.dev/docs/tutorial
+
+#### Troubleshooting
+
+- I needed to reinstall watchman to run the app on an IOS emulator https://facebook.github.io/watchman/docs/troubleshooting.html
