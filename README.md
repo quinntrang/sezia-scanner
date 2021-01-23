@@ -1,6 +1,6 @@
 ### Skincare Ingredient Scanner
 
-- We are building a skincare ingredient scanner mobile app.
+- We are building a skincare ingredient scanner mobile app. It will scan ingredient lists from a skin care product and check if the product is fungal acne-safe. An existing website for this is https://www.sezia.co/, but there's no scanning capability to it. We hope that this functionality facilitates safety-checking for those affected by fungal acne!
 
 #### Hackathon
 
