@@ -1,12 +1,18 @@
-import React from 'react';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import React, { useState } from 'react';
+import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
 
-class EditScreen extends React.Component {
-  render() {
+const EditScreen = () => {
+    const[value, onChangeText] = useState('');
     return (
       <View style={styles.container}>
+        <TextInput
+          style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
+          placeholder="Type here!"
+          onChangeText={text => onChangeText(text)}
+          value={value}
+         /> 
         <Text>[Insert Text Box here. Textbox should include scanned text]</Text>
-        <Text>User can type in the list manually</Text>
+        <Text>User can type in the list manually as well</Text>
 
         <Button
           title="Submit"
@@ -16,7 +22,6 @@ class EditScreen extends React.Component {
         />
       </View>
     );
-  }
 }
 
 const styles = StyleSheet.create({
