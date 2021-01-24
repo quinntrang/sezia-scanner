@@ -1,28 +1,26 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
 
-const EditScreen = () => {
-    const[value, onChangeText] = useState('');
-    return (
-      <View style={styles.container}>
-        <TextInput
-          style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
-          placeholder="Type here!"
-          onChangeText={text => onChangeText(text)}
-          value={value}
-         /> 
-        <Text>[Insert Text Box here. Textbox should include scanned text]</Text>
-        <Text>User can type in the list manually as well</Text>
+const EditScreen = (props) => {
+  const [value, onChangeText] = useState('');
+  return (
+    <View style={styles.container}>
+      <TextInput
+        style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
+        placeholder='Type here!'
+        onChangeText={(text) => onChangeText(text)}
+        value={value}
+      />
+      <Text>[Insert Text Box here. Textbox should include scanned text]</Text>
+      <Text>User can type in the list manually as well</Text>
 
-        <Button
-          title="Submit"
-          onPress={() =>
-            this.props.navigation.navigate('Results')
-          }
-        />
-      </View>
-    );
-}
+      <Button
+        title='Submit'
+        onPress={() => props.navigation.navigate('Results')}
+      />
+    </View>
+  );
+};
 
 const styles = StyleSheet.create({
   container: {
