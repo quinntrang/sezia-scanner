@@ -1,18 +1,41 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 
+const ingredientsList = require('../ingredientsinfo.json');
+
 class ResultsScreen extends React.Component {
   render() {
+    const { ingredients } = this.props.route.params;
+    const matches = [];
+    ingredients.forEach((i) => {
+      const found = ingredientsList.find((match) => match.NAME === i);
+      if (found) {
+        matches.push(found);
+      }
+    });
     return (
       <View style={styles.container}>
-        <Text>[Message: This product has X ingredients that are NOT safe for fungal acne.]</Text>
-        <Text>[Insert table of mentioned ingredients and their type]</Text>
+        <Text>
+          {matches.length} out of {ingredients.length} ingredients are NOT safe
+          for fungal acne.
+        </Text>
+        {!!matches.length && (
+          <Text>
+            <ul>
+              {matches.map((m) => (
+                <li>
+                  {m.NAME}: {m.TYPE}
+                </li>
+              ))}
+            </ul>
+          </Text>
+        )}
 
         <Button
-          title="Scan Another Product"
-          onPress={() =>
-           this.props.navigation.navigate('Scan')
-           //title="Clicked"
+          title='Scan Another Product'
+          onPress={
+            () => this.props.navigation.navigate('Scan')
+            //title="Clicked"
           }
         />
       </View>

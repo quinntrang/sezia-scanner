@@ -16,7 +16,11 @@ const EditScreen = (props) => {
 
       <Button
         title='Submit'
-        onPress={() => props.navigation.navigate('Results')}
+        onPress={() =>
+          props.navigation.navigate('Results', {
+            ingredients: value.split(',').map((v) => v.trim()),
+          })
+        }
       />
     </View>
   );
