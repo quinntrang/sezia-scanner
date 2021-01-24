@@ -11,8 +11,6 @@ class ScanScreen extends React.Component {
           onPress={() => this.props.navigation.navigate('Check ingredients')}
         />
 
-        <br />
-
         <Button
           title='Type ingredients list'
           onPress={() => this.props.navigation.navigate('Check ingredients')}
@@ -28,9 +26,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
-  },
-  productExample: {
-    height: '20%',
   },
 });
 

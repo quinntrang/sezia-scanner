@@ -8,8 +8,8 @@ const EditScreen = (props) => {
       <TextInput
         multiline={true}
         numberOfLines={8}
-        style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
-        placeholder='Type here!'
+        style={{ height: 300, width: 300, borderColor: 'gray', borderWidth: 1 }}
+        placeholder='Type your ingredient list! ex: Aqua, Mica, Caprylyl Glycol'
         onChangeText={(text) => onChangeText(text)}
         value={value}
       />

@@ -15,16 +15,19 @@ class ResultsScreen extends React.Component {
     });
     return (
       <View style={styles.container}>
+        <Text>Results:</Text>
         <Text>
-          {matches.length} out of {ingredients.length} ingredients are NOT safe
+          {matches.length} out of {ingredients.length} ingredients are unsafe
           for fungal acne.
         </Text>
         {!!matches.length && (
           <Text>
             <ul>
               {matches.map((m) => (
-                <li>
-                  {m.NAME}: {m.TYPE}
+                <li key={m}>
+                  <Text>
+                    {m.NAME}: {m.TYPE}
+                  </Text>
                 </li>
               ))}
             </ul>
