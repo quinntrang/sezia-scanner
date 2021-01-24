@@ -1,0 +1,1276 @@
+[{
+    "NAME": "Undecylenic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Lauric Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Tridecylic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Myristic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Pentadecylic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Palmitic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Palmitoleic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Margaric Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Stearic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Vaccenic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Oleic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Elaidic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Linoleic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Linolelaidic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Alpha-Linolenic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Gamma-Linolenic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Stearidonic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Nonadecylic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Arachidic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Gondoic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Dihomo-Y-Linolenic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Mead Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Arachidonic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Eicosapentaenoic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Heneicosylic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Behenic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Erucic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Docosatetraenoic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Docosahexaenoic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Tricosylic Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Lignoceric Acid",
+    "TYPE": "Saturated"
+},{
+    "NAME": "Nervonic Acid",
+    "TYPE": "Unsaturated"
+},{
+    "NAME": "Acai",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sweet Almond",
+    "TYPE": "Oil"
+},{
+    "NAME": "Andiroba",
+    "TYPE": "Oil"
+},{
+    "NAME": "Apple",
+    "TYPE": "Oil"
+},{
+    "NAME": "Apricot",
+    "TYPE": "Oil"
+},{
+    "NAME": "Argan",
+    "TYPE": "Oil"
+},{
+    "NAME": "Avocado",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Baobab",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Babassu",
+    "TYPE": "Oil"
+},{
+    "NAME": "Badger",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Barbary Fig",
+    "TYPE": "Oil"
+},{
+    "NAME": "Bear",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Beefsteak",
+    "TYPE": "Oil"
+},{
+    "NAME": "Bees",
+    "TYPE": "Wax"
+},{
+    "NAME": "Blackberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Black Sea Rod",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "European Blueberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Borage",
+    "TYPE": "Oil"
+},{
+    "NAME": "Brazil Nut",
+    "TYPE": "Oil"
+},{
+    "NAME": "Broccoli",
+    "TYPE": "Oil"
+},{
+    "NAME": "Burdock",
+    "TYPE": "Oil"
+},{
+    "NAME": "Buriti",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cacay",
+    "TYPE": "Oil"
+},{
+    "NAME": "Candelilla",
+    "TYPE": "Wax"
+},{
+    "NAME": "Carnauba",
+    "TYPE": "Wax"
+},{
+    "NAME": "Carrot",
+    "TYPE": "Oil"
+},{
+    "NAME": "Castor",
+    "TYPE": "Oil, Wax"
+},{
+    "NAME": "Celery",
+    "TYPE": "Oil"
+},{
+    "NAME": "Wild Celery",
+    "TYPE": "Oil"
+},{
+    "NAME": "Bitter Cherry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sweet Cherry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Chia",
+    "TYPE": "Oil"
+},{
+    "NAME": "Chinaberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cloudberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cocoa",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Coconut",
+    "TYPE": "Oil, Butter, Wax, Milk"
+},{
+    "NAME": "Cod Liver",
+    "TYPE": "Oil"
+},{
+    "NAME": "Coffee",
+    "TYPE": "Oil, Butter, Wax"
+},{
+    "NAME": "Cotton",
+    "TYPE": "Oil"
+},{
+    "NAME": "Corn",
+    "TYPE": "Oil"
+},{
+    "NAME": "Crambe",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cranberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cucumber",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cumin",
+    "TYPE": "Oil"
+},{
+    "NAME": "Black Cumin",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cupuacu",
+    "TYPE": "Butter"
+},{
+    "NAME": "Black Currant",
+    "TYPE": "Oil"
+},{
+    "NAME": "Egg",
+    "TYPE": "Oil"
+},{
+    "NAME": "Emu",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Evening Primrose",
+    "TYPE": "Oil"
+},{
+    "NAME": "Fish",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Flower",
+    "TYPE": "Wax"
+},{
+    "NAME": "Galip",
+    "TYPE": "Oil"
+},{
+    "NAME": "Ginseng",
+    "TYPE": "Oil"
+},{
+    "NAME": "Goji",
+    "TYPE": "Oil"
+},{
+    "NAME": "Grapeseed",
+    "TYPE": "Oil"
+},{
+    "NAME": "Hazelnut",
+    "TYPE": "Oil"
+},{
+    "NAME": "Horse",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Chilean Hazelnut",
+    "TYPE": "Oil"
+},{
+    "NAME": "Harakeke",
+    "TYPE": "Oil"
+},{
+    "NAME": "Hemp",
+    "TYPE": "Oil"
+},{
+    "NAME": "Illipe",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Kiwi",
+    "TYPE": "Oil"
+},{
+    "NAME": "Jojoba",
+    "TYPE": "Oil, Wax"
+},{
+    "NAME": "Karanja",
+    "TYPE": "Oil"
+},{
+    "NAME": "Kukui",
+    "TYPE": "Oil"
+},{
+    "NAME": "Lingonberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Linseed",
+    "TYPE": "Oil"
+},{
+    "NAME": "Lanolin",
+    "TYPE": "Wax"
+},{
+    "NAME": "Lard",
+    "TYPE": "Oil"
+},{
+    "NAME": "Mushroom",
+    "TYPE": "Oil"
+},{
+    "NAME": "Milk",
+    "TYPE": "Fat"
+},{
+    "NAME": "Mink",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Morel",
+    "TYPE": "Oil"
+},{
+    "NAME": "Macadamia",
+    "TYPE": "Oil"
+},{
+    "NAME": "Mango",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Marula",
+    "TYPE": "Oil"
+},{
+    "NAME": "Meadowfoam",
+    "TYPE": "Oil"
+},{
+    "NAME": "Mongongo",
+    "TYPE": "Oil"
+},{
+    "NAME": "Moringa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Musk Mallow",
+    "TYPE": "Oil"
+},{
+    "NAME": "Mustard",
+    "TYPE": "Oil"
+},{
+    "NAME": "Neem",
+    "TYPE": "Oil"
+},{
+    "NAME": "Olive",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Olus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Tsubaki",
+    "TYPE": "Oil"
+},{
+    "NAME": "Palm",
+    "TYPE": "Oil, Butter, Wax, Olein"
+},{
+    "NAME": "Brazillian Palm",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "South American Palm",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Papaya",
+    "TYPE": "Oil"
+},{
+    "NAME": "Passion Fruit",
+    "TYPE": "Oil"
+},{
+    "NAME": "Passion Flower",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pataua",
+    "TYPE": "Oil"
+},{
+    "NAME": "Peach",
+    "TYPE": "Oil"
+},{
+    "NAME": "Peanut",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pecan",
+    "TYPE": "Oil"
+},{
+    "NAME": "Black Pepper",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pequi",
+    "TYPE": "Oil"
+},{
+    "NAME": "Japanese Pine",
+    "TYPE": "Oil"
+},{
+    "NAME": "Korean Pine",
+    "TYPE": "Oil"
+},{
+    "NAME": "Siberian Pine",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pistachio",
+    "TYPE": "Oil"
+},{
+    "NAME": "Common Plum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Hog Plum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pomegranate",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pongamia",
+    "TYPE": "Oil"
+},{
+    "NAME": "Poppy",
+    "TYPE": "Oil"
+},{
+    "NAME": "Opium Poppy",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pracaxi",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pumpkin",
+    "TYPE": "Oil"
+},{
+    "NAME": "Purcellin",
+    "TYPE": "Oil"
+},{
+    "NAME": "Purple Viper's Bugloss",
+    "TYPE": "Oil"
+},{
+    "NAME": "Radish",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rapeseed",
+    "TYPE": "Oil"
+},{
+    "NAME": "Raspberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rice",
+    "TYPE": "Oil"
+},{
+    "NAME": "Dog Rose",
+    "TYPE": "Oil"
+},{
+    "NAME": "Musk Rose",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rosehip",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rose",
+    "TYPE": "Oil"
+},{
+    "NAME": "Safflower",
+    "TYPE": "Oil"
+},{
+    "NAME": "Seabuckthorn",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sesame",
+    "TYPE": "Oil"
+},{
+    "NAME": "Shea",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Shorea",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "East African Shea",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Soybean",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sponge Gourd",
+    "TYPE": "Oil"
+},{
+    "NAME": "Strawberry",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sunflower",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sweet Brier",
+    "TYPE": "Oil"
+},{
+    "NAME": "Tamanu",
+    "TYPE": "Oil"
+},{
+    "NAME": "Tallow",
+    "TYPE": "Wax"
+},{
+    "NAME": "Tall",
+    "TYPE": "Oil, Fat"
+},{
+    "NAME": "Truffle",
+    "TYPE": "Oil"
+},{
+    "NAME": "Tomato",
+    "TYPE": "Oil"
+},{
+    "NAME": "Vegetable",
+    "TYPE": "Oil"
+},{
+    "NAME": "Watermelon",
+    "TYPE": "Oil"
+},{
+    "NAME": "Wheat",
+    "TYPE": "Oil"
+},{
+    "NAME": "White Lupin",
+    "TYPE": "Oil"
+},{
+    "NAME": "Yuzu",
+    "TYPE": "Oil"
+},{
+    "NAME": "Galactomyces",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Galactomyces Ferment Filtrate",
+    "TYPE": "Fermented Yeasts"
+},{
+    "NAME": "Galactomyces Filtrate Ferment",
+    "TYPE": "Fermented Yeasts"
+},{
+    "NAME": "Saccharomyces/Rosa Canina Fruit Oil Ferment Filtrate",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Saccharomyces/Linseed Oil Ferment",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Saccharomyces/Linseed Oil Ferment Filtrate",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Saccharomyces/Argania Spinosa Kernel Oil Ferment Filtrate",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Monascus/Brassica Napus Seed Oil Ferment",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Monascus/Brassica Napus Seed Oil Ferment Extract",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Pseudozyma Epicola/Soybean Flour/Argania Spinosa Kernel Oil Ferment Filtrate",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Pseudozyma Epicola/Soybean Flour/Olive Fruit Oil Ferment Filtrate",
+    "TYPE": "Fermented Oils"
+},{
+    "NAME": "Saccharomyces/Sunflower Seed Oil Ferment Filtrate"
+},{
+    "NAME": "Aspergillus Ferment",
+    "TYPE": "Fermented Molds"
+},{
+    "NAME": "Bacillus Ferment",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Alteromonas Ferment Extract",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Lactococcus Ferment Lysate",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Lactococcus Ferment",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Pseudoalteromonas Exopolysaccharides",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Pseudoalteromonas Ferment Extract",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Thermus Thermophillus Ferment",
+    "TYPE": "Fermented Bacteria"
+},{
+    "NAME": "Leuconostoc/Radish Root Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Leuconostoc/Radish Root Fermentfiltrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Rice Ferment Filtrate (Sake)",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Rice Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Rice Filtrate Ferment",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Saccharomyces Xylinum (Kombucha) Black Tea Ferment",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Saccharomyces/Camellia Sinensis Leaf/Cladosiphon Okamuranus/Rice Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Saccharomyces/Xylinum/Black Tea Ferment",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Saccharomyces/Rice Ferment Filtrate Extract",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Saccharomyces/Rice Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Aspergillus/Rice Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Bacillus/Soybean/Folic Acid Ferment",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Lactobacillus/Eriodictyon Californicum Ferment Extract",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Lactobacillus/Pumpkin Fruit Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Lactobacillus/Rice Ferment Filtrate",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Lactobacillus/Tomato Fruit Ferment Extract",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Lactobacillus/Wasabia Japonica Root Ferment Extract",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Lactobacillus/Water Hyacinth Ferment",
+    "TYPE": "Fermented Botanicals"
+},{
+    "NAME": "Saccharomyces Cerevisiae Extract",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Saccharomyces Cerevisiae",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Saccharomyces",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Saccharomyces Ferment Filtrate",
+    "TYPE": "Fermented Yeasts"
+},{
+    "NAME": "Saccharomyces Ferment",
+    "TYPE": "Fermented Yeasts"
+},{
+    "NAME": "Saccharomyces Ferments",
+    "TYPE": "Fermented Yeasts"
+},{
+    "NAME": "Saccharomyces (Lysate, Copper, Zinc) Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Saccharomyces (Lysate Copper Zinc) Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Saccharomyces/Copper Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Saccharomyces/Iron Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Saccharomyces/Magnesium Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Saccharomyces/Silicon Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Saccharomyces/Zinc Ferment",
+    "TYPE": "Fermented Minerals"
+},{
+    "NAME": "Glycerin",
+    "TYPE": "Polyols"
+},{
+    "NAME": "Glycerin (Coconut Oil",
+    "TYPE": "Polyols"
+},{
+    "NAME": "Yeast",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Yeast Extract",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Faex (Yeast Extract)",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Hydrolyzed Yeast Extract",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Yeast Extract/Faex/Extrait De Levure",
+    "TYPE": "Yeasts"
+},{
+    "NAME": "Sodium Cocoyl Lauryl Isethionate",
+    "TYPE": "Isethionates"
+},{
+    "NAME": "Sodium Lauryl Isethionate",
+    "TYPE": "Isethionates"
+},{
+    "NAME": "Sodium Lauroyl Methyl Isethionate",
+    "TYPE": "Isethionates"
+},{
+    "NAME": "Sodium Cocoyl Isethionate",
+    "TYPE": "Isethionates"
+},{
+    "NAME": "Sodium Palmitoyl Isethionate",
+    "TYPE": "Isethionates"
+},{
+    "NAME": "Calcium Lauroyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Magnesium Methyl Cocoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Potassium Cocoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Potassium Methyl Cocoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Potassium Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Caproyl Methyltaurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Cocoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Lauroyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyl Cocoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyl Lauroyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyl Myristoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyl Oleoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyl Palmitoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyl Stearoyl Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyltaurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyltaurate Isopalmitamide",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Methyltaurine Cocoyl Methyltaurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium N-Isostearoyl Methyltaurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Taurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Sodium Taurine Cocoyl Methyltaurate",
+    "TYPE": "Taurates"
+},{
+    "NAME": "Peg-6 Cocamide",
+    "TYPE": "Amides"
+},{
+    "NAME": "Peg-4 Rapeseedamide",
+    "TYPE": "Amides"
+},{
+    "NAME": "Ppg-2 Hydroxyethyl Coco/Isostearamide",
+    "TYPE": "Amides"
+},{
+    "NAME": "Cetyl-Pg Hydroxyethyl Palmitamide",
+    "TYPE": "Amides"
+},{
+    "NAME": "Aluminum Dimyristate",
+    "TYPE": "Aluminum Salts"
+},{
+    "NAME": "Ammonium Coco Monoglyceride Sulfate",
+    "TYPE": "Ammonium Salts"
+},{
+    "NAME": "Ammonium Cocomonoglyceride Sulfate",
+    "TYPE": "Ammonium Salts"
+},{
+    "NAME": "Arginine Cocoate",
+    "TYPE": "Arginine Salts"
+},{
+    "NAME": "Calcium Stearate",
+    "TYPE": "Calcium Salts"
+},{
+    "NAME": "Disodium Cocoamphodiacetate",
+    "TYPE": "Disodium Salts"
+},{
+    "NAME": "Lysine Cocoate",
+    "TYPE": "Lysine Salts"
+},{
+    "NAME": "Magnesium Cocoate",
+    "TYPE": "Magnesium Salts"
+},{
+    "NAME": "Magnesium Myristate",
+    "TYPE": "Magnesium Salts"
+},{
+    "NAME": "Magnesium Stearate",
+    "TYPE": "Magnesium Salts"
+},{
+    "NAME": "Potassium Boababate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Castorate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Cocoate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Hydrogenated Cocoate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Isostearate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Laurate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Myristate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Oliviate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Palmitate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Potassium Stearate",
+    "TYPE": "Potassium Salts"
+},{
+    "NAME": "Sodium C14-16 Olefin Sulfonate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Coco Monoglyceride Sulfate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Cocoamphoacetate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Cocoate Or Sodium Palm Kernelate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Cocoate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Cocomonoglyceride Sulfate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Cocomonoglyceride Sulfonate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Cocoyl Isethionate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Hydrogenated Cocoate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Isostearate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Laurate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Myristate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Oleate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Palm Glyceride Sulfonate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Palm Kernelate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Palmate/Cocoate Or/Ou Palm Kernelate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Palmitate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Peg-7 Olive Oil Carboxylate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Peg-8 Palm Glycerides Carboxylate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Sodium Stearate",
+    "TYPE": "Sodium Salts"
+},{
+    "NAME": "Zinc Isostearate",
+    "TYPE": "Zinc Salts"
+},{
+    "NAME": "Zinc Myristate",
+    "TYPE": "Zinc Salts"
+},{
+    "NAME": "Zinc Ricinoleate",
+    "TYPE": "Zinc Salts"
+},{
+    "NAME": "Zinc Stearate",
+    "TYPE": "Zinc Salts"
+},{
+    "NAME": "Euterpe Oleracea",
+    "TYPE": "Oil"
+},{
+    "NAME": "Prunus Amygdalus Dulcis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Carapa Guaianensis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pyrus Malus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Prunus Armeniaca",
+    "TYPE": "Oil"
+},{
+    "NAME": "Argania Spinosa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Persea Americana",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Adansonia Digitata",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Orbignya Oleifera",
+    "TYPE": "Oil"
+},{
+    "NAME": "Opuntia Ficus-Indica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Perilla Ocymoides",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rubus Fruticosus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Vaccinium Myrtillus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Borago Officinalis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Bertholletia Excelsa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Brassica Oleracea Italica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Arctium Lappa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Mauritia Flexuosa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Caryodendron Orinocense",
+    "TYPE": "Oil"
+},{
+    "NAME": "Euphorbia Cerifera",
+    "TYPE": "Wax"
+},{
+    "NAME": "Copernicia Prunifera",
+    "TYPE": "Wax"
+},{
+    "NAME": "Daucus Carota Sativa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Ricinus Communis",
+    "TYPE": "Oil, Wax"
+},{
+    "NAME": "Apium Archangelica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Angelica Archangelica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Prunus Cerasus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Prunus Avium",
+    "TYPE": "Oil"
+},{
+    "NAME": "Salvia Hispanica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Melia Azadirachta",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rubus Chamaemorus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Theobroma Cacao",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Cocos Nucifera",
+    "TYPE": "Oil, Butter, Wax, Milk"
+},{
+    "NAME": "Coffea Arabica",
+    "TYPE": "Oil, Butter, Wax"
+},{
+    "NAME": "Gossypium Herbaceum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Zea Mays",
+    "TYPE": "Oil"
+},{
+    "NAME": "Crambe Abyssinica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Vaccinium Macrocarpon",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cucumis Sativus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cuminum Cyminum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Nigella Sativa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Theobroma Grandiflorum",
+    "TYPE": "Butter"
+},{
+    "NAME": "Ribes Nigrum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Ovum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Oenothera Biennis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Canarium Indicum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Panax Ginseng",
+    "TYPE": "Oil"
+},{
+    "NAME": "Lycium Barbarum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Vitus Vinifera",
+    "TYPE": "Oil"
+},{
+    "NAME": "Corylus Americana",
+    "TYPE": "Oil"
+},{
+    "NAME": "Gevuina Avellana",
+    "TYPE": "Oil"
+},{
+    "NAME": "Phormium Tenax",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cannabis Sativa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Shorea Stenoptera",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Actinidia Chinensis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Simmondsia Chinensis",
+    "TYPE": "Oil, Wax"
+},{
+    "NAME": "Pongamia Glabra",
+    "TYPE": "Oil"
+},{
+    "NAME": "Aleurites Moluccanus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Vaccinium Vitis-Idaea",
+    "TYPE": "Oil"
+},{
+    "NAME": "Linum Usitatissimum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Agaricus Bisporus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Macadamia Integrifolia",
+    "TYPE": "Oil"
+},{
+    "NAME": "Mangifera Indica",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Sclerocarya Birrea",
+    "TYPE": "Oil"
+},{
+    "NAME": "Limnanthes Alba",
+    "TYPE": "Oil"
+},{
+    "NAME": "Ricinodendron Rautenenii",
+    "TYPE": "Oil"
+},{
+    "NAME": "Moringa Oleifera",
+    "TYPE": "Oil"
+},{
+    "NAME": "Hibiscus Abelmoschus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Brassica Juncea",
+    "TYPE": "Oil"
+},{
+    "NAME": "Azadirachta Indica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Olea Europaea",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Camellia Japonica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Elaeis Guineensis",
+    "TYPE": "Oil, Butter, Wax, Olein"
+},{
+    "NAME": "Astrocaryum Vulgare",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Astrocaryum Tucuma",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Carica Papaya",
+    "TYPE": "Oil"
+},{
+    "NAME": "Passiflora Edulis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Passiflora Incarnata",
+    "TYPE": "Oil"
+},{
+    "NAME": "Oenocarpus Bataua",
+    "TYPE": "Oil"
+},{
+    "NAME": "Prunus Persica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Arachis Hypogeae",
+    "TYPE": "Oil"
+},{
+    "NAME": "Carya Illinoinensis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Piper Nigrum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Caryocar Brasiliense",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pinus Parviflora",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pinus Koraiensis",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pinus Sibirica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pistacia Vera",
+    "TYPE": "Oil"
+},{
+    "NAME": "Prunus Domestica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Ximenia Americana",
+    "TYPE": "Oil"
+},{
+    "NAME": "Punica Granatum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pongamia Pinnata",
+    "TYPE": "Oil"
+},{
+    "NAME": "Papaver Orientale",
+    "TYPE": "Oil"
+},{
+    "NAME": "Papaver Somniferum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Pentaclethra Macroloba",
+    "TYPE": "Oil"
+},{
+    "NAME": "Cucurbita Pepo",
+    "TYPE": "Oil"
+},{
+    "NAME": "Echium Plantagineum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Raphanus Sativus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Brassica Capestris",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rubus Idaeus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Oryza Sativa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rosa Canina",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rosa Moschata",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rosa Rubiginosa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rosa Mosqueta",
+    "TYPE": "Oil"
+},{
+    "NAME": "Carthamus Tinctorius",
+    "TYPE": "Oil"
+},{
+    "NAME": "Hippophae Rhamnoides",
+    "TYPE": "Oil"
+},{
+    "NAME": "Sesamum Indicum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Butyrospermum Parkii",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Shorea Robusta",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Vitellaria Nilotica",
+    "TYPE": "Oil, Butter"
+},{
+    "NAME": "Glycine Soja",
+    "TYPE": "Oil"
+},{
+    "NAME": "Luffa Cylindrica",
+    "TYPE": "Oil"
+},{
+    "NAME": "Fragaria Ananassa",
+    "TYPE": "Oil"
+},{
+    "NAME": "Helianthus Annuus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Rosa Eglentaria",
+    "TYPE": "Oil"
+},{
+    "NAME": "Callophyllum Inophyllum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Solanum Lycopersicum",
+    "TYPE": "Oil"
+},{
+    "NAME": "Citrullus Lanatus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Triticum Vulgare",
+    "TYPE": "Oil"
+},{
+    "NAME": "Lupinus Albus",
+    "TYPE": "Oil"
+},{
+    "NAME": "Citrus Junos",
+    "TYPE": "Oil"
+}
+]
