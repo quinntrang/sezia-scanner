@@ -20,19 +20,12 @@ class ResultsScreen extends React.Component {
           {matches.length} out of {ingredients.length} ingredients are unsafe
           for fungal acne.
         </Text>
-        {!!matches.length && (
-          <Text>
-            <ul>
-              {matches.map((m) => (
-                <li key={m}>
-                  <Text>
-                    {m.NAME}: {m.TYPE}
-                  </Text>
-                </li>
-              ))}
-            </ul>
-          </Text>
-        )}
+        {!!matches.length &&
+          matches.map((m) => (
+            <Text>
+              - {m.NAME}: {m.TYPE}
+            </Text>
+          ))}
 
         <Button
           title='Scan Another Product'
