@@ -5,6 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import ScanScreen from './screens/ScanScreen';
 import EditScreen from './screens/EditScreen';
+import ResultsScreen from './screens/ResultsScreen';
 
 const Stack = createStackNavigator();
 
@@ -19,6 +20,10 @@ const MyStack = () => {
         <Stack.Screen 
           name="Edit" 
           component={EditScreen} 
+        />
+        <Stack.Screen 
+          name="Results" 
+          component={ResultsScreen} 
         />
       </Stack.Navigator>
     </NavigationContainer>
