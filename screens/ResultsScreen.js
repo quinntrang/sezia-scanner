@@ -34,7 +34,7 @@ class ResultsScreen extends React.Component {
         <Button
           title='Scan Another Product'
           onPress={
-            () => this.props.navigation.navigate('Scan')
+            () => this.props.navigation.navigate('Skincare Ingredients Scanner')
             //title="Clicked"
           }
         />

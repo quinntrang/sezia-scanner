@@ -6,18 +6,18 @@ const EditScreen = (props) => {
   return (
     <View style={styles.container}>
       <TextInput
+        multiline={true}
+        numberOfLines={8}
         style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
         placeholder='Type here!'
         onChangeText={(text) => onChangeText(text)}
         value={value}
       />
-      <Text>[Insert Text Box here. Textbox should include scanned text]</Text>
-      <Text>User can type in the list manually as well</Text>
 
       <Button
         title='Submit'
         onPress={() =>
-          props.navigation.navigate('Results', {
+          props.navigation.navigate('Ingredients results', {
             ingredients: value.split(',').map((v) => v.trim()),
           })
         }

@@ -14,21 +14,14 @@ const MyStack = () => {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
-          name="Scan"
+          name='Skincare Ingredients Scanner'
           component={ScanScreen}
         />
-        <Stack.Screen 
-          name="Edit" 
-          component={EditScreen} 
-        />
-        <Stack.Screen 
-          name="Results" 
-          component={ResultsScreen} 
-        />
+        <Stack.Screen name='Check ingredients' component={EditScreen} />
+        <Stack.Screen name='Ingredients results' component={ResultsScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
 };
-
 
 export default MyStack;

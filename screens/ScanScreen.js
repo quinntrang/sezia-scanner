@@ -1,24 +1,21 @@
 import React from 'react';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { StyleSheet, View, Button } from 'react-native';
 
 class ScanScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>[insert camera here]</Text>
-
         <Button
-          title="Scan Image"
-          onPress={() =>
-            this.props.navigation.navigate('Edit')
-          }
+          disabled
+          title='Coming soon: Scan Image'
+          onPress={() => this.props.navigation.navigate('Check ingredients')}
         />
 
+        <br />
+
         <Button
-          title="Type manually"
-          onPress={() =>
-            this.props.navigation.navigate('Edit')
-          }
+          title='Type ingredients list'
+          onPress={() => this.props.navigation.navigate('Check ingredients')}
         />
       </View>
     );
@@ -31,6 +28,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  productExample: {
+    height: '20%',
   },
 });
 
