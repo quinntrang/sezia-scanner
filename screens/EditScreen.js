@@ -5,12 +5,13 @@ class EditScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Insert Text Box here</Text>
+        <Text>[Insert Text Box here. Textbox should include scanned text]</Text>
+        <Text>User can type in the list manually</Text>
 
         <Button
-          title="Submit input text"
+          title="Submit"
           onPress={() =>
-            this.props.navigation.navigate('Scan')
+            this.props.navigation.navigate('Results')
           }
         />
       </View>

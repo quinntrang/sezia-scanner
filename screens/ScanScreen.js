@@ -5,10 +5,17 @@ class ScanScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>[camera here]</Text>
+        <Text>[insert camera here]</Text>
 
         <Button
           title="Scan Image"
+          onPress={() =>
+            this.props.navigation.navigate('Edit')
+          }
+        />
+
+        <Button
+          title="Type manually"
           onPress={() =>
             this.props.navigation.navigate('Edit')
           }
